@@ -1,0 +1,14 @@
+# Fendi web scraped data 
+
+## About the website
+
+**Fendi** is a renowned Italian luxury fashion house that was founded in **1925**, in Rome, Italy, by Adele and Edoardo Fendi. Originally a fur and leather shop, it has since blossomed into an international high-end fashion empire. The brand is owned by LVMH. Fendi is renowned for its cutting-edge, opulent, and stylistically daring luxury products. Throughout the years, the company has become renowned for the quality, craftsmanship and timeless appeal of its products, and it emphasizes these characteristics in its branding and marketing. This distinguishes it from other luxury fashion companies, which often focus more on trends. The history and pivotal moments of the company can be learned more in depth from Fendis [Wikipedia page](https://en.wikipedia.org/wiki/Fendi). Information about its financial details is not publicly available because LVMH, its parent company, is the one listed on the Euronext Paris exchange, [FP:MC](https://www.bloomberg.com/quote/MC:FP), with a market cap of €320 billion as of 31st Dec, 2021.
+
+Considering its business model and the segment it operates in, **Fendi**s major competitors include some of the most well-regarded fashion houses and brands in the world. [Gucci](https://www.gucci.com/), a fashion house famous for its Italian craftsmanship and innovative design, is one such competitor. Inherently more about brand equity and heritage, Guccis and Fendi’s business models are largely based on brand exclusivity, customer loyalty, and high product prices, portraying luxury, quality, and design as the USP. Another competitor is [Prada](https://www.prada.com/), a luxury brand noted for its intricate detailing and top-notch quality. More about these competitors can be found on Guccis [Wikipedia page](https://en.wikipedia.org/wiki/Gucci) and Pradas [Wikipedia page](https://en.wikipedia.org/wiki/Prada)
+
+The use of web scraped data from **Fendi’s** website can play an essential role in a variety of use cases. For instance, with factual data including prices and available discounts, retailers can use price tracking to monitor Fendi’s pricing strategy. This information can help businesses stay competitive in the market by identifying pricing trends and making necessary adjustments. Furthermore, this data can provide insights into seasonal variations and discount trends, aiding in demand forecasting and stock management, leading to more accurate and efficient planning. In the realm of online retail, customer reviews and ratings are paramount for success; analyzing this data can help identify customer preferences, potential product improvements, and market trends. This kind of information is crucial for staying ahead in the ever-changing and fast-paced luxury retail industry.
+
+
+## Link to **dataset**
+
+[Fendi dataset](https://www.databoutique.com/buy-data-list-subset/Fendi%20web%20scraped%20data/r/recT8AMuX0sDIsaBL)
